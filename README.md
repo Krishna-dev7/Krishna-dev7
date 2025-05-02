@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nahak Krishnaprasad</h1>
-<h3 align="center">A passionate Full Stack Web Developer 🌹</h3>
+<h2 align="center" style="color:#888;">chilling &nbsp;•&nbsp; vibing &nbsp;•&nbsp; coding</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-dev7" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=7FDBFF&center=true&vCenter=true&width=380&lines=Backend+dev+in+progress...;Building+cool+web+things.;Let’s+code+and+chill." />
+</p>
 
-  🔭 I’m currently seeking for Job Opportunities
+---
 
-  🌱 I’m currently learning **Web development in Chai-aur-cohort**
+### 👋 hey, I’m [your name]
 
-  📝 I regularly write articles on [https://hashnode.com/@flash225](https://hashnode.com/@flash225)
+- 🧠 learning deeply: `backend`, `MERN`, `Next.js`, `APIs`
+- 🎯 focus: clean code, smooth UI, smart systems
+- 🎧 mood: lo-fi beats & late-night builds
+- 🤝 open to: collabs, pair programming, coffee chats
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
