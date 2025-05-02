@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-dev7" /> </p>
 
-- 🔭 I’m currently working on [college final year project](https://github.com/Krishna-dev7/Mega_Project)
+- 🔭 I’m currently seeking for Job Opportunities
 
 - 🌱 I’m currently learning **Web development in Chai-aur-cohort**
 
