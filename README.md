@@ -1,16 +1,17 @@
-<h2 align="center" style="color:#888;">chilling &nbsp;•&nbsp; vibing &nbsp;•&nbsp; coding</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist&duration=2000&pause=1000&color=7FDBFF&center=true&vCenter=true&width=380&lines=Backend+dev+in+progress...;Building+cool+web+things.;Let’s+code+and+chill." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist&pause=1000&color=89B4FA&center=true&vCenter=true&width=380&lines=building+cool+stuff...;backend+in+progress...;let’s+code+and+chill+%F0%9F%92%BB" />
 </p>
 
----
 
-### 👋 hey, I’m [your name]
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=89B4FA,94E2D5,A6E3A1,F9E2AF,F38BA8,BAE6FD&height=5&section=footer"/>
+</p>
 
-- 🧠 learning deeply: `backend`, `MERN`, `Next.js`, `APIs`
-- 🎯 focus: clean code, smooth UI, smart systems
-- 🎧 mood: lo-fi beats & late-night builds
-- 🤝 open to: collabs, pair programming, coffee chats
 
----
+### 👋 Hey, I’m Nahak Krishna
+
+- 🧠 currently seeking for Job Opportunities
+- 🎯 focused on: clean code, smart design, restful APIs
+- 🎧 vibe: lo-fi beats, caffeine, midnight commits
+- 🤝 always open to: collabs, coding sessions, cool ideas
