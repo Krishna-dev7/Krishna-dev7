@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist&pause=1000&color=89B4FA&center=true&vCenter=true&width=380&lines=building+cool+stuff...;backend+in+progress...;let’s+code+and+chill+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist&pause=1000&color=fffba0&center=true&vCenter=true&width=380&lines=building+cool+stuff...;backend+in+progress...;let’s+code+and+chill+%F0%9F%92%BB" />
 </p>
 
 
